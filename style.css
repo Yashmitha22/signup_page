@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.signup{
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+}
+.signup-box{
+    background-color: #160031;
+    border-radius: 30px;
+    margin: auto;
+    display: flex;
+    box-shadow: 1px 1px 30px;
+}
+.signup-box .image{
+    width: 50%;
+
+}
